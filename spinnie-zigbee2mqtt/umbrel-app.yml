@@ -4,7 +4,7 @@ name: Zigbee to MQTT
 tagline: Zigbee to MQTT bridge.
 icon: https://www.zigbee2mqtt.io/logo.png
 category: Development
-version: "1.0.0"
+version: "1.1.0"
 port: 8341
 description: >-
   Zigbee to MQTT bridge.
