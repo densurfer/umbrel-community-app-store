@@ -17,7 +17,8 @@ submission:
 repo:
 support:
 gallery:
-releaseNotes:
+releaseNotes: >-
+
 dependencies: []
 path: ""
 defaultUsername: ""

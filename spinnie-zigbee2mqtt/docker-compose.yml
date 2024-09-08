@@ -21,7 +21,7 @@ services:
       - .zigbee2mqtt:/app/data
       - /run/udev:/run/udev:ro
     ports:
-      - 6914:8080
+      - 8341:8080
     environment:
       - TZ=Europe/Amsterdam
       - APP_URL=http://umbrel.local:6914
