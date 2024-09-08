@@ -1,0 +1,29 @@
+manifestVersion: 1
+id: spinnie-zigbee2mqtt
+name: Zigbee to MQTT
+tagline: Zigbee to MQTT bridge.
+icon: https://www.zigbee2mqtt.io/logo.png
+category: Development
+version: "1.0.0"
+port: 6914
+description: >-
+  Zigbee to MQTT bridge.
+  You need to have a Zigbee dongle plugged in to use this and an MQTT broker to connect to.
+  It can help to connect Zigbee devices to your smart home without the need for a proprietary gateway.
+
+developer: Spinnie
+website: https://www.zigbee2mqtt.io/
+submitter: Spinnie
+submission:
+repo: https://github.com/Koenkk/zigbee2mqtt
+support: https://github.com/Koenkk/zigbee2mqtt/issues
+gallery:
+  - https://www.zigbee2mqtt.io/assets/img/frontend.e604ec0e.png
+  - https://github.com/Koenkk/zigbee2mqtt/blob/master/images/architecture.png
+  - https://www.zigbee2mqtt.io/assets/img/generate_external_definition.2d7d3337.gif
+releaseNotes: >-
+  Did not use the latest version for compatibility reasons.
+dependencies: []
+path: ""
+defaultUsername: ""
+defaultPassword: ""
